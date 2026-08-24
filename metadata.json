@@ -1,0 +1,6 @@
+{
+  "name": "Digital Art Store & AI Copywriter",
+  "description": "Digital art and AI animation assets store with Cloudflare D1/R2 architecture, payment webhook processing, signed 10-min download vault, and Gemini AI sales copywriter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
